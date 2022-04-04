@@ -1,2 +1,3 @@
 # git1
-Git Demonstration
+Git Demonstration to use Basic Git Commands
+
